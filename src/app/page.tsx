@@ -56,7 +56,7 @@ export default function Home() {
             Find in-depth information about Next.js features and API.
           </p>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Airton Piro
+            Airton Piro Gonzales
           </p>
         </a>
 
